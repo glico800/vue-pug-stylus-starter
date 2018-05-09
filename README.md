@@ -2,7 +2,7 @@
 
 Starter kit for Vue.js with Pug and Stylus.
 
-Created with https://github.com/vuejs/vue-cli
+Initialized with [vue-cli](https://github.com/vuejs/vue-cli)
 
 ## Build Setup
 
