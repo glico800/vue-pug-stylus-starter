@@ -1,6 +1,8 @@
-# vue-cli-sample
+# vue-pug-stylus-starter
 
-> A Vue.js project
+Starter kit for Vue.js with Pug and Stylus.
+
+Created with https://github.com/vuejs/vue-cli
 
 ## Build Setup
 
